@@ -1,0 +1,9 @@
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaNegocio\obj\Debug\CapaNegocio.pdb

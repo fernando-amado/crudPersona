@@ -1,0 +1,7 @@
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\luis.amado\Desktop\C#\CrudP\CapaDatos\obj\Debug\CapaDatos.pdb
