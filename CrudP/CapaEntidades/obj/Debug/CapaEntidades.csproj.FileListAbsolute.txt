@@ -3,3 +3,8 @@ C:\Users\luis.amado\Desktop\C#\CrudP\CapaEntidades\bin\Debug\CapaEntidades.pdb
 C:\Users\luis.amado\Desktop\C#\CrudP\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
 C:\Users\luis.amado\Desktop\C#\CrudP\CapaEntidades\obj\Debug\CapaEntidades.dll
 C:\Users\luis.amado\Desktop\C#\CrudP\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\luis.amado\Desktop\C#\crudPersona\CrudP\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\luis.amado\Desktop\C#\crudPersona\CrudP\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\luis.amado\Desktop\C#\crudPersona\CrudP\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\luis.amado\Desktop\C#\crudPersona\CrudP\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\luis.amado\Desktop\C#\crudPersona\CrudP\CapaEntidades\obj\Debug\CapaEntidades.pdb
